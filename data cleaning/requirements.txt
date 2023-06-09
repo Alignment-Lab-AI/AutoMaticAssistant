@@ -1,0 +1,7 @@
+openai
+json
+tkinter
+scrolledtext
+nltk
+ijson
+
