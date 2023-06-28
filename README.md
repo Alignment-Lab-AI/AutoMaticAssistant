@@ -25,3 +25,14 @@ AutoMetic Assistant is designed to be more than a tool; it's intended to be a le
 ## Join Us
 
 Our project is currently in its early stages, and we're actively seeking contributors to help bring AutoMetic Assistant to life. We're excited about the potential of this project and would love for you to be a part of it. Whether you're a developer, a data scientist, or just someone with a passion for AI, your skills and input could be invaluable. Join us in creating a new frontier in AI-assisted living.
+
+## current research for the overall design is drawing on  inspiration and elements from the following repositories and studies 
+https://github.com/microsoft/unilm/tree/master/kosmos-2
+
+https://github.com/yxuansu/PandaGPT
+
+https://arxiv.org/abs/2109.10686
+
+thank you to the researchers, microsoft, google, and facebook for building the pieces which are making this possible
+
+## please reach out for details about current findings and tested implementations ive kept the majority of it private due to ethical and alignment concerns for now, but will be releasing techniques to make use of the live training wrapper and self cloning system soon :)
