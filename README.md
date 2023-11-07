@@ -10,8 +10,9 @@ The goal for AutoMetic Assistant is to pilot your PC, view your desktop, and com
 
 A key aspect of this project is the development of a secure repository for data collection. This system will gather chat data throughout your day, creating a comprehensive understanding of your communication style and preferences, for personalized assistance.
 
-Please push any data you gather here: https://huggingface.co/datasets/AlignmentLab-AI/AutometicAssistant
+The dataset, as we and people who want to contribute build it out will be posted here!: https://huggingface.co/datasets/AlignmentLab-AI/AutometicAssistant
 
+please feel free to submit any data you generate
 and I will happily clean it, and optimize it for training!
 
 ## Training and Personalization
